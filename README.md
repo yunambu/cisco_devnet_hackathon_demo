@@ -1,2 +1,2 @@
 # cisco_devnet_hackathon_demo
-Repo for uploading demo scripts in Cisco DevNet Hackathon
+This is a Repo to upload script files for Cisco DevNet Hackathon 2020 - Tokyo.
