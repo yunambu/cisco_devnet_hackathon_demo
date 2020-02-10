@@ -140,9 +140,9 @@ timetables['party'] = {
 function push(msg, cb) {
 
     //自分の Bot Token を入力
-    const token = "NGEwNTgyNmItYmJmNy00YWZiLWIxYTctNzk4MmI1MjAyZjE0NDU1NTA2MzEtYzMw_PF84_1eb65fdf-9643-417f-9974-ad72cae0e10f"
+    const token = "<My Bot Token>"
     //Botを動かす Webex Teams Space の Room ID を入力
-    const roomId = "Y2lzY29zcGFyazovL3VzL1JPT00vNjQzMzg0NzAtNDk4NC0xMWVhLWFmMzUtMzVkMDRlYmI1Y2Q0"
+    const roomId = "<Webex Teams Room ID>"
 
     //呼び出す Lambda 関数に受け渡す引数・ペイロード
     let payload = {
